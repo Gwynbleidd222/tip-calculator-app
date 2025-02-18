@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Gwynbleidd222/tip-calculator-app]
+- Live Site URL: [https://gwynbleidd222.github.io/tip-calculator-app/]
 
 ## My process
 
@@ -48,5 +48,5 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Piotr Łojas](https://gwynbleidd222.github.io/Main-Single-Page-Portfolio/)
+- Frontend Mentor - [Gwynbleidd222](https://www.frontendmentor.io/profile/Gwynbleidd222)
